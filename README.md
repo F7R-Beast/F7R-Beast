@@ -11,6 +11,8 @@ I enjoy building applications, games, and learning new technologies by working o
 
 ## Technical Skills
 
+<div align="center">
+
 ### Programming Languages
 <!-- I put these in the order I'm comfortable in :3 -->
 
@@ -65,6 +67,8 @@ I enjoy building applications, games, and learning new technologies by working o
 ![RedBeanPHP](https://img.shields.io/badge/RedBeanPHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-%23049FD9?style=for-the-badge&logo=cisco&logoColor=white)
 ![Greenfoot](https://img.shields.io/badge/Greenfoot-308830?style=for-the-badge&logo=java&logoColor=white)
+
+</div>
 
 ## Projects
 
@@ -135,5 +139,9 @@ A homelab project designed to provide CST students with easier access to differe
 Studying **Computer Science Technology** at **Vanier College** and building cross-platform projects spanning web, mobile, and desktop.
 
 ## Socials
+<div align="center">
+
 ### Discord Profile:
 [![Discord Presence](https://lanyard.cnrad.dev/api/693463275341611030?hideActivity=true&hideSpotify=true&showDisplayName=true&hideTag=true)](https://discord.com/users/693463275341611030)
+
+</div>
