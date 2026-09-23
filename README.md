@@ -135,5 +135,5 @@ A homelab project designed to provide CST students with easier access to differe
 Studying **Computer Science Technology** at **Vanier College** and building cross-platform projects spanning web, mobile, and desktop.
 
 ## Socials
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/f7rbeast)
+### Discord Profile:
+[![Discord Presence](https://lanyard.cnrad.dev/api/693463275341611030?hideActivity=true&hideSpotify=true&showDisplayName=true&hideTag=true)](https://discord.com/users/693463275341611030)
