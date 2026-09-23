@@ -72,7 +72,7 @@ I enjoy building applications, games, and learning new technologies by working o
 
 ## Projects
 
-### Toys4Us
+### [Toys4Us](https://github.com/revolloverr/Toys4Us)
 
 **PHP / Twig / Slim / MySQL / JavaScript**
 
@@ -88,7 +88,7 @@ A full E-Commerce platform developed for a toy store.
 - Implemented **REST APIs and AJAX-based functionality**.
 - Applied input validation and security practices including **XSS prevention and prepared SQL queries**.
 
-### Toys4Us Mobile App
+### [Toys4Us Mobile App](https://github.com/ayayron0/toys4us-android-application)
 
 **Dart / Flutter / Firebase**
 
@@ -101,7 +101,7 @@ A mobile application based on the Toys4Us platform.
 - Added **push notifications**.
 - Integrated **text-to-speech** functionality.
 
-### Dar Falasteen
+### [Dar Falasteen](https://github.com/fadwa-shalaby/AppDevProject)
 
 **C# / .NET / SQLite**
 
@@ -113,7 +113,7 @@ A desktop restaurant ordering application.
 - Used **SQLite** for local data storage.
 - Designed application logic for managing **restaurant orders**.
 
-### Fallen Magic: Knight's Oath
+### [Fallen Magic: Knight's Oath](https://github.com/F7R-Beast/Greenfoot-Game-Project)
 
 **Java / Greenfoot**
 
@@ -123,7 +123,7 @@ A 2D game developed using Java and Greenfoot.
 - Implemented **game logic** using Java.
 - Worked on player interactions and overall **game design**.
 
-### Vanier CST Student's Starter Pack
+### [Vanier CST Student's Starter Pack](https://github.com/AlanTelem/UnixLIAProject)
 
 **Linux / Proxmox**
 
