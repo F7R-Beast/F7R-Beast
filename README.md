@@ -140,8 +140,11 @@ Studying **Computer Science Technology** at **Vanier College** and building cros
 
 ## Socials
 <div align="center">
-
 ### Discord Profile:
 [![Discord Presence](https://lanyard.cnrad.dev/api/693463275341611030?hideActivity=true&hideSpotify=true&showDisplayName=true&hideTag=true)](https://discord.com/users/693463275341611030)
-
 </div>
+
+## Streak Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=F7R-Beast&theme=tokyonight&hide_border=true"/>
+</p>
